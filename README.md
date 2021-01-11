@@ -1,5 +1,5 @@
 # cuddly-octo-chainsaw
-Implementation of various FFT algorithms (mainly in C/C++), along with their analysis and some benchmarking.
+Implementation of various FFT algorithms (mainly in C/C++), along with their analysis and some benchmarking. Also a bit of optimization attempts here and there.
 
 ## To Do:
 1. Discrete Fourier Transform (the simplest O(n^2) implementation, not FFT)
@@ -18,3 +18,4 @@ Implementation of various FFT algorithms (mainly in C/C++), along with their ana
 [Fast Fourier Transform](https://rosettacode.org/wiki/Fast_Fourier_transform)\
 [Fast Fourier transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform)\
 [What Makes a Fourier Transform Fast?](https://www.algorithm-archive.org/contents/cooley_tukey/cooley_tukey.html)
+[Fast Fourier transform in x86 assembly](https://www.nayuki.io/page/fast-fourier-transform-in-x86-assembly)
