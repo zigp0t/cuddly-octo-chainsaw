@@ -15,5 +15,6 @@ Implementation of various FFT algorithms (mainly in C/C++), along with their ana
 
 ## Read More:
 [A General Comparison Of Fft Algorithms](https://www.cypress.com/file/55401/download)\
-[Fast Fourier Transform - Rosetta Code](https://rosettacode.org/wiki/Fast_Fourier_transform)\
-[Fast Fourier transform - Wikipedia](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
+[Fast Fourier Transform](https://rosettacode.org/wiki/Fast_Fourier_transform)\
+[Fast Fourier transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform)\
+[What Makes a Fourier Transform Fast?](https://www.algorithm-archive.org/contents/cooley_tukey/cooley_tukey.html)
