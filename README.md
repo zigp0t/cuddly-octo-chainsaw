@@ -9,7 +9,7 @@ Implementation of various FFT algorithms (mainly in C/C++), along with their ana
 5. Rader's FFT algorithm
 6. Bluestein's FFT algorithm
 7. Winograd's FFT algorithm
-8. Hexagonal fast Fourier transform
+8. Hexagonal FFT algorithm
 9. Fast Hartley Transform algorithm
 10. Quick Fourier Transform algorithm
 
